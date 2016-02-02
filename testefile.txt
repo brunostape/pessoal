@@ -4,3 +4,5 @@ testefile
 primeiro arquivo criado
 ----------
 branch número 1
+----------
+branch número 2
